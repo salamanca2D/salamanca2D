@@ -1,3 +1,3 @@
-!(https://raw.githubusercontent.com/salamanca2D/salamanca2D/master/bio_img.png)
+![Hey there, I'm Moises. I'm a software developer](https://raw.githubusercontent.com/salamanca2D/salamanca2D/master/bio_img.png)
 
 I like technology and innovation, I like companies and people who adapt to new technologies.
